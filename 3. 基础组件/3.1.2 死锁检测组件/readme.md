@@ -1,3 +1,3 @@
-deadlock.c  线程死锁demo
-graph.c 构建图
-deadlock_succes.c 检测图中有没有环
+- deadlock.c  线程死锁demo
+- graph.c 构建图
+- deadlock_succes.c 检测图中有没有环
