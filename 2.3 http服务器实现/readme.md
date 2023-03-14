@@ -1,2 +1,0 @@
-Http.pdf:关于http请求方法、响应头信息、状态码这些详细信息
-由于github不支持在线pdf阅读，可以下载整个Linux_C_CPP获取pdf文档
