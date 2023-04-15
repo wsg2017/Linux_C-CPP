@@ -1,7 +1,0 @@
-
-- singleton:单例模式
-- factory:工厂模式，1不使用工厂模式，2使用
-- factoryabstract：抽象工厂
-- chain_of_resp：责任链，1不使用责任链模式，2使用
-- composite:组合模式
-- decorator：装饰器设计模式，1不使用，2使用
