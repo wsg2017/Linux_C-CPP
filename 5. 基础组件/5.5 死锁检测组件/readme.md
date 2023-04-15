@@ -1,2 +1,2 @@
-- 死锁示例：deadlock_success
-- 死锁检测：graph.c、deadlock.c
+- 死锁示例：deadlock.c
+- 死锁检测：graph.c、deadlock_success.c
